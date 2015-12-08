@@ -1,6 +1,7 @@
 /**
  * Created by saraiva on 12/5/15.
  */
+
 import org.scalatest.junit.JUnitSuite
 import org.junit._
 import resolution5._
@@ -20,7 +21,7 @@ class test5 extends JUnitSuite {
   }
 
   @Test def testProblem5Part2(): Unit = {
-    assert(problem5.part1(line) == 55)
+    assert(problem5.part2(line) == 55)
   }
 }
 

@@ -1,9 +1,6 @@
 /**
  * Created by saraiva on 12/5/15.
  */
-/**
- * Created by saraiva on 12/5/15.
- */
 
 import org.scalatest.junit.JUnitSuite
 import org.junit._
